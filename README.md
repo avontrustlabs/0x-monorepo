@@ -1,12 +1,10 @@
-<img src="https://github.com/0xProject/branding/blob/master/0x%20Logo/PNG/0x-Logo-Black.png" width="150px" >
+<img src="https://pbs.twimg.com/profile_images/1110397724677988352/l7epPWkg_400x400.png" width="150px" >
 
 ---
 
-[0x][website-url] is an open protocol that facilitates trustless, low friction exchange of Ethereum-based assets. For more information on how it works, check out the [0x protocol specification](https://github.com/0xProject/0x-protocol-specification/blob/master/v2/v2-specification.md).
+An open protocol that facilitates trustless, low friction exchange of Ethereum-based assets. 
 
-This repository is a monorepo including the 0x protocol smart contracts and numerous developer tools. Each public sub-package is independently published to NPM.
-
-If you're developing on 0x now or are interested in using 0x infrastructure in the future, please join our [developer mailing list][dev-mailing-list-url] for updates.
+If you're developing on 0x now or are interested in using 0x infrastructure in the future, 
 
 [website-url]: https://0xproject.com
 [whitepaper-url]: https://0xproject.com/pdfs/0x_white_paper.pdf
@@ -18,19 +16,7 @@ If you're developing on 0x now or are interested in using 0x infrastructure in t
 [![Join the chat at https://gitter.im/0xProject/Lobby](https://badges.gitter.im/0xProject/Lobby.svg)](https://gitter.im/0xProject/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Packages
-
-Visit our [developer portal](https://0xproject.com/docs/order-utils) for a comprehensive list of core & community maintained packages. All packages maintained with this monorepo are listed below.
-
-### Python Packages
-
-| Package                                                        | Version                                                                                                             | Description                                                                                       |
-| -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| [`0x-contract-addresses`](/python-packages/contract_addresses) | [![PyPI](https://img.shields.io/pypi/v/0x-contract-addresses.svg)](https://pypi.org/project/0x-contract-addresses/) | A tiny utility library for getting known deployed contract addresses for a particular network     |
-| [`0x-contract-artifacts`](/python-packages/contract_artifacts) | [![PyPI](https://img.shields.io/pypi/v/0x-contract-artifacts.svg)](https://pypi.org/project/0x-contract-artifacts/) | 0x smart contract compilation artifacts                                                           |
-| [`0x-json-schemas`](/python-packages/json_schemas)             | [![PyPI](https://img.shields.io/pypi/v/0x-json-schemas.svg)](https://pypi.org/project/0x-json-schemas/)             | 0x-related JSON schemas                                                                           |
-| [`0x-order-utils`](/python-packages/order_utils)               | [![PyPI](https://img.shields.io/pypi/v/0x-order-utils.svg)](https://pypi.org/project/0x-order-utils/)               | A set of utilities for generating, parsing, signing and validating 0x orders                      |
-| [`0x-sra-client`](/python-packages/sra_client)                 | [![PyPI](https://img.shields.io/pypi/v/0x-sra-client.svg)](https://pypi.org/project/0x-sra-client/)                 | A Python client for interacting with servers conforming to the Standard Relayer API specification |
+ 
 
 ### Solidity Packages
 
